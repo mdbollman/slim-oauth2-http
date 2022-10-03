@@ -13,7 +13,7 @@
     "require": {
         "php": "^7.3 || ^8.0",
         "bshaffer/oauth2-server-php": "^1.8",
-        "laminas/laminas-diactoros": "^2.8"
+        "laminas/laminas-diactoros": "~2.14.0"
     },
     "config" : {
         "sort-packages": true
